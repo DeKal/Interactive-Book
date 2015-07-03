@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="atthebeachwithdad_num_quest"> 1 </integer>
+
+    <string name="atthebeachwithdad_quest_0">
+        How many people go to the beach?
+    </string>
+    <string name="atthebeachwithdad_ans_0_0">
+        1.
+    </string>
+    <string name="atthebeachwithdad_ans_0_1">
+        2.
+    </string>
+    <string name="atthebeachwithdad_ans_0_2">
+        3.
+    </string>
+    <string name="atthebeachwithdad_ans_0_3">
+        4.
+    </string>
+    <integer name ="atthebeachwithdad_0_right_ans">
+        2
+    </integer>
+</resources>

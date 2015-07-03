@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+              android:background="#ff000000">
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="right">
+
+        <Button
+            style="?android:attr/buttonStyleSmall"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/btn_skin_mode_1"
+            android:id="@+id/Btn_Skin1ForChooseBook"
+            android:textColor="#ffd6fffb"
+            android:background="#ff000000"/>
+
+        <Button
+            style="?android:attr/buttonStyleSmall"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/Btn_Skin2ForChooseBook"
+            android:text="@string/btn_skin_mode_2"
+            android:background="#ff000000"
+            android:textColor="#ffd6fffb"/>
+
+    </LinearLayout>
+
+    <GridView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/GridView_BookImages"
+        android:numColumns="6" />
+
+</LinearLayout>

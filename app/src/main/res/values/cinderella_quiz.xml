@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="cinderella_num_quest"> 2 </integer>
+
+    <string name="cinderella_quest_0">
+        What time does Cinderella have to go home before it is too late?
+    </string>
+    <string name="cinderella_ans_0_0">
+        9:00 PM.
+    </string>
+    <string name="cinderella_ans_0_1">
+        12:00 PM.
+    </string>
+    <string name="cinderella_ans_0_2">
+        11:00 PM.
+    </string>
+    <string name="cinderella_ans_0_3">
+        10:00 PM.
+    </string>
+    <integer name ="cinderella_0_right_ans">
+        1
+    </integer>
+    <string name="cinderella_quest_1">
+        Who was the lover of Cinderella?
+    </string>
+    <string name="cinderella_ans_1_0">
+        A Bird.
+    </string>
+    <string name="cinderella_ans_1_1">
+        Her Step Mother.
+    </string>
+    <string name="cinderella_ans_1_2">
+        Her Shoes.
+    </string>
+    <string name="cinderella_ans_1_3">
+        The Prince.
+    </string>
+    <integer name ="cinderella_1_right_ans">
+        3
+    </integer>
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="zoomystery_num_quest"> 1 </integer>
+
+    <string name="zoomystery_quest_0">
+        What is the mystery?
+    </string>
+    <string name="zoomystery_ans_0_0">
+        The zoo is gone.
+    </string>
+    <string name="zoomystery_ans_0_1">
+        Pig in the zoo can fly.
+    </string>
+    <string name="zoomystery_ans_0_2">
+        Horses are missing.
+    </string>
+    <string name="zoomystery_ans_0_3">
+        The zoo is closed.
+    </string>
+    <integer name ="zoomystery_0_right_ans">
+        2
+    </integer>
+</resources>

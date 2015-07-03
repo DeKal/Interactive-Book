@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Interactive Book</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="oses">
+        <item>Android</item>
+        <item>iPhone</item>
+        <item>Max OS X</item>
+    </string-array>
+
+    <string name="btn_skin_mode_1">List</string>
+    <string name="btn_skin_mode_2">Images</string>
+    <string name="title_activity_view_page_of_book">Pages</string>
+    <string name="btn_quiz"> Quiz</string>
+
+
+
+
+    <string name="title_activity_view_list_of_pages">Pages</string>
+    <string name="title_activity_quiz">Quiz</string>
+    <string name="title_activity_interactive_book_cover">Interactive Book</string>
+    <string name="title_activity_log_up_acivity">Logup</string>
+    <string name="title_activity_display_user_info">User</string>
+    <string name="btn_profile">Profile</string>
+    <string name="btn_read">Read</string>
+    <string name="title_activity_quiz_test">Quiz</string>
+    <string name="speech_prompt">Say something</string>
+    <string name="speech_not_supported">Sorry! Your device doesn\'t support speech input</string>
+    <string name="tap_on_mic">Tap on mic to speak</string>
+</resources>

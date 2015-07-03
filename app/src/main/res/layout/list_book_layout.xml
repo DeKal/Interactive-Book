@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <hhp.interactivebook.Animation
+        android:id="@+id/bookAni"
+        android:layout_width="220px"
+        android:layout_height="180px"/>
+
+    <TextView  android:id="@+id/bookName"
+        android:layout_width="match_parent" android:layout_height="match_parent"
+        android:textStyle="bold"
+        android:gravity="right"
+        android:textSize="25dp"
+        android:text="" />
+
+</LinearLayout>

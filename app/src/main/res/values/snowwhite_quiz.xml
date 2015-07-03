@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="snowwhite_num_quest"> 1 </integer>
+
+    <string name="snowwhite_quest_0">
+        How many times Snow White had been injured?
+    </string>
+    <string name="snowwhite_ans_0_0">
+        1.
+    </string>
+    <string name="snowwhite_ans_0_1">
+        2.
+    </string>
+    <string name="snowwhite_ans_0_2">
+        3.
+    </string>
+    <string name="snowwhite_ans_0_3">
+        4.
+    </string>
+    <integer name ="snowwhite_0_right_ans">
+        2
+    </integer>
+</resources>

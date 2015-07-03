@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="taleinorange_num_quest"> 1 </integer>
+
+    <string name="taleinorange_quest_0">
+        What is the color of orange?
+    </string>
+    <string name="taleinorange_ans_0_0">
+        Yellow.
+    </string>
+    <string name="taleinorange_ans_0_1">
+        Orange.
+    </string>
+    <string name="taleinorange_ans_0_2">
+        Black.
+    </string>
+    <string name="taleinorange_ans_0_3">
+        White.
+    </string>
+    <integer name ="taleinorange_0_right_ans">
+        1
+    </integer>
+</resources>
